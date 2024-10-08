@@ -1,4 +1,3 @@
-const xmlData = `
     <Catalog>
         <Product ProductID="101">
             <Name>Smartphone</Name>
@@ -13,6 +12,3 @@ const xmlData = `
             <Stock>15</Stock>
         </Product>
     </Catalog>
-`;
-
-module.exports = xmlData;
