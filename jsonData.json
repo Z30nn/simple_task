@@ -1,0 +1,22 @@
+{
+    "Catalog": {
+        "Products": [
+            {
+                "ProductID": "101",
+                "Name": "Smartphone",
+                "Category": "Electronics",
+                "Price": 299.99,
+                "Stock": 25,
+                "Image": "https://m-cdn.phonearena.com/images/phones/84649-940/Apple-iPhone-16-Pro-Max.jpg?w=1"
+            },
+            {
+                "ProductID": "102",
+                "Name": "Laptop",
+                "Category":  "Electronics",
+                "Price": 799.99,
+                "Stock": 15,
+                "Image": "https://images.anandtech.com/doci/13433/aw15r5nt_lnb_05000f90_gy-678_678x452.png"
+            }
+        ]
+    }
+}
