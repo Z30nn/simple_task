@@ -48,7 +48,7 @@
     <script>
         async function fetchProducts() {
             try {
-                const response = await fetch('/api/json');
+                const response = await fetch('https://json-xml-hosting2.onrender.com/jsonData.json');
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
                 }
